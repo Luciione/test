@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change directory to your Git repository path
-cd .
+cd ~/Desktop/test/
 
 # Replace with the actual path to your Python script
 python .git-login.py
@@ -16,6 +16,7 @@ git commit -m "Automated commit"
 
 git push -u origin main
 
+#ignored    
 
 
 
